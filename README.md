@@ -65,3 +65,13 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+
+https://github.com/user-attachments/assets/901e808c-4ebe-495b-baff-79b3ff9ee9b8
+
+## RESULT:
+
+this is my own making video.
+
+
+
